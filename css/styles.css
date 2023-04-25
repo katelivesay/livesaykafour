@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Lora:wght@500&family=Playfair+Display&display=swap');
+
+h1 {
+    font-family: 'Lora', serif;
+}
+
+h2 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar {
+    width: 80%;
+    margin: 5%;
+}
+
+header {
+    padding: 5%;
+    background-color: #88B04B;
+}
+
+footer {
+    background-color: #88B04B;
+    padding: 10%;
+}
+
+.btn {
+    font-size: .85rem;
+}
+
+/* .cardone {
+    border: 1px solid #88B04B;
+}
+
+.cardtwo {
+    border: 1px solid #88B04B;
+}
+
+.cardthree {
+    border: 1px solid #88B04B;
+} */
+
+.navbar-light {
+    background-color: white !important;
+}
+
+.bg-light {
+    background-color: white !important;
+}
